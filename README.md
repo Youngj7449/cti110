@@ -1,3 +1,5 @@
-# cti110
+# cti110 Repository
 
-M1LAB1 completed
+Created for M1LAB1 
+Young
+May 31, 2017
